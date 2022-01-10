@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/Seamless Portals
+/Assets/Plugins/Curvy Examples
+/Assets/Plugins/Curvy Resources
+/Assets/Plugins/DevTools
+/Assets/Plugins/Curvy
