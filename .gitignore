@@ -63,3 +63,5 @@ crashlytics-build.properties
 /Assets/Plugins/Curvy Resources
 /Assets/Plugins/DevTools
 /Assets/Plugins/Curvy
+/Assets/Resources/Mapbox
+/Assets/Resources/Mapbox.meta
